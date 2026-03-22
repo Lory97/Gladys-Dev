@@ -2,6 +2,9 @@
 
 Bienvenue sur le Projet 3 du cursus Développeur Blockchain d'Alyra. Ce projet consiste en la réalisation d'une application décentralisée (DApp) de vote complète, avec un smart contract Solidity en back-end et une interface utilisateur en front-end.
 
+🌍 **Lien de la DApp déployée** : [https://voting-dapp-projet3.vercel.app/](https://voting-dapp-projet3.vercel.app/)  
+🎥 **Lien de la vidéo démo** : [Voir sur Google Drive](https://drive.google.com/file/d/1RD7VK1WsKGGzfiXHkF8gHVUptV4oWA8l/view?usp=sharing)
+
 ## 📋 Présentation du Projet
 
 Cette DApp permet à un administrateur d'organiser un vote au sein d'une organisation de manière transparente et sécurisée sur la blockchain Ethereum (ou compatible EVM). Le processus de vote se déroule selon différentes étapes (workflow) contrôlées exclusivement par l'administrateur.
